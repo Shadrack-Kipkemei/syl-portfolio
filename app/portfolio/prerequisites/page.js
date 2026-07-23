@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Navbar from "@/components/navbar/page";
+import Navbar from "@/components/Navbar";
 
 export default function Prerequisites() {
     const [files, setFiles] = useState({});
@@ -39,7 +39,7 @@ export default function Prerequisites() {
         <>
             <Navbar />
 
-            <div classname="min-h-screen bg-gradient-to-b from-[#003366] to-[#001933] text-white p-6">
+            <div className="min-h-screen bg-gradient-to-b from-[#003366] to-[#001933] text-white p-6">
                 <div className="max-w-5xl mx-auto">
                     <h1 className="text-4xl font-bold mb-2 text-center">
                         Section 1: Prerequisites
