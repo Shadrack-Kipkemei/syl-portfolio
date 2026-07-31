@@ -13,3 +13,9 @@
     href: "/portfolio/you-and-the-church"
     description: "Church involvement, teaching ministry, church heritage, and spiritual programs."
 }
+
+{
+    title: "Section6: You & The Community"
+    href: "/portfolio/you-and-the-community"
+    description: "Community service, outreach, evangelism and Bible studies"
+}

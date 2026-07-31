@@ -60,7 +60,7 @@ export default function YouAndTheChurch() {
                                 placeholder="Write a brief report or reflection..."
                                 className="w-full p-4 mb-4 rounded-lg bg-white/20 border border-white/30 placeholder-gray-300"
                             />
-                            <label className="inline-flex items-center px-5 py-3 bg-syan-400 text-black font-semibold rounded-lg cursor-pointer hover:bg-cyan-300 transition">
+                            <label className="inline-flex items-center px-5 py-3 bg-cyan-400 text-black font-semibold rounded-lg cursor-pointer hover:bg-cyan-300 transition">
                                 Upload Evidence
                                 <input
                                     type="file"
